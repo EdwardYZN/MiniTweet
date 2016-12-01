@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MiniTweet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MiniTweet.war">
+      <element id="artifact" artifact-name="MiniTweet:war exploded" />
+    </root>
+  </artifact>
+</component>
